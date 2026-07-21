@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6r0092/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 羅湖野錄序愚以倦遊歸憩羅湖之上杜門卻掃不與世接因追繹疇昔出處叢林其所聞見前言往行不為不多或得於尊宿提唱朋友談說或得於斷殘碣蠹簡陳編歲月浸久慮其湮墜故不復料揀銓次但以所得先後會粹成編命曰羅湖野錄然世殊事異正恐傳聞謬舛適足滓穢先德貽誚後來姑私藏諸以俟審訂脫有愽達之士操董狐筆著僧寶史取而補之土苴罅漏不為無益云爾紹興乙亥十月望日湖隱堂釋氏子曉瑩敘
   hash: sha256:1fb0829075f21b42a74e86efc328c2ff37a7454ba50a988d178f31c97edc2493
   markers:
   - {type: 序, offset: 0, content: No. 1577-A 羅湖野錄序, id: KR6r0092_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 羅湖野錄
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X83/X83n1577.xml
     old_id: X83n1577
-hash: sha256:df4c4731e6633db6a90fad6988e151dd4428816093424b60370b95bd97905506
+hash: sha256:3dfa9caf052d8a54df30fecaf2fb1cee2e10fc9c3be8d9f9f4aebeed328eaba3
